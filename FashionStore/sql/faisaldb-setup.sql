@@ -1,0 +1,9 @@
+-- Aura Fashion Store — uses Eclipse connection "faisal" (schema: faisaldb)
+-- Do NOT run against internship or other project databases.
+--
+-- If faisaldb is empty, import your schema/data once, e.g.:
+--   mysqldump -u root -p aura | mysql -u root -p faisaldb
+--
+-- Product images must stay under:
+--   src/main/webapp/assets/images/products/1.png … 16.png
+-- and image_url in products table: assets/images/products/N.png
