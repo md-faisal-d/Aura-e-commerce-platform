@@ -40,6 +40,8 @@ The codebase is built from the ground up to follow enterprise software engineeri
 
 ## 📊 Database Schema
 
+![Database ER Diagram](database_diagram.png)
+
 ```
                   ┌──────────────┐
                   │    users     │
